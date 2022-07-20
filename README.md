@@ -1,4 +1,4 @@
-# MissFormer: MissFormer: Long Sequence Time-Series Forecasting with Missing Values
+# MissFormer: Long Sequence Time-Series Forecasting with Missing Values
   This repo is the pytoch implementation of MissFormer, which concerns about LSTF problem with missing values.
 
 ## Installation
